@@ -37,5 +37,5 @@
 
 <!-- 10 BEST IMAGES FROM VALIDATION DATASET SHOWING CLASSIFICATION -->
 ## 10 Best images from Validation Dataset showing classification
-
+<img src="Classification Images/Validation Dataset/classification images.png" alt="predict" width="700"/>
 
