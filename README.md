@@ -31,8 +31,8 @@
 |               | Recall                    | 98      |
 |               | Precision                 | 98      |
 |               | F1-Score                  | 98      |
-| Detection     | Average Precision         | 0.78    |
-|               | Mean Average Precision    | 0.84    |
+| Detection     | Average Precision         | 93.7    |
+|               | Mean Average Precision    | 97      |
 |               | Intersection over Union   | 0.75    |
 
 <!-- 10 BEST IMAGES FROM VALIDATION DATASET SHOWING CLASSIFICATION -->
@@ -74,7 +74,7 @@
   </div>
 </div>
 <!-- 10 BEST CAM PLOTS FROM VALIDATION DATASET -->
-## 10 Best CAM Plots from Validation Dataset
+## 10 Best CAM plots from Validation Dataset
 <div class="grid">
   <div class="grid-item">
     <img src="Interpretability Plots/Validation Dataset/img- (1).png" alt="Image 1">
