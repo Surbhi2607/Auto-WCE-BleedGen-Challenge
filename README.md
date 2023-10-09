@@ -148,4 +148,87 @@
     <img src="Detection Images/Test Dataset 1/Image 5.jpeg" alt="Image 5">
   </div>
 
+  <!-- 5 BEST LIME PLOTS FROM TEST DATASET 1 -->
+## 5 Best LIME plots from Test Dataset 1 
+<div class="grid">
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 1/A0000.png" alt="Image 1">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 1/A0012.png" alt="Image 2">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 1/A0025.png" alt="Image 3">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 1/A0037.png" alt="Image 4">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 1/A0049.png" alt="Image 5">
+  </div>
+
+  <!-- 5 BEST IMAGES FROM TEST DATASET 2 SHOWING CLASSIFICATION -->
+## 5 Best images from Test Dataset 2 showing classification
+### Bleeding Images
+<div class="grid">
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 2/A0054.png" alt="Image 1">
+  </div>
+  
+### Non Bleeding Images
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 2/A0050.png" alt="Image 2">
+  </div>
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 2/A0051.png" alt="Image 3">
+  </div>
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 2/A0052.png" alt="Image 4">
+  </div>
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 2/A0053.png" alt="Image 5">
+  </div>
+  
+  <!-- 5 BEST IMAGES FROM TEST DATASET 2 SHOWING DETECTION -->
+## 5 Best images from Test Dataset 2 showing detection
+<div class="grid">
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 2/Image 1.jpeg" alt="Image 1">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 2/Image 2.jpeg" alt="Image 2">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 2/Image 3.jpeg" alt="Image 3">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 2/Image 4.jpeg" alt="Image 4">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 2/Image 5.jpeg" alt="Image 5">
+  </div>
+
+  <!-- 5 BEST LIME PLOTS FROM TEST DATASET 2 -->
+## 5 Best LIME plots from Test Dataset 2 
+<div class="grid">
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 2/A0050.png" alt="Image 1">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 2/A0178.png" alt="Image 2">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 2/A0306.png" alt="Image 3">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 2/A0434.png" alt="Image 4">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 2/A0541.png" alt="Image 5">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Test Dataset 2/A0562.png" alt="Image 6">
+  </div>
+
+
 
