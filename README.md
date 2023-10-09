@@ -43,10 +43,10 @@
 ## 10 Best images from Validation Dataset showing detection
 <div class="grid">
   <div class="grid-item">
-    <img src="Detection Images/Validation Dataset/Image1.jpeg" alt="Image 1">
+    <img src="Detection Images/Validation Dataset/Image 1.jpeg" alt="Image 1">
   </div>
   <div class="grid-item">
-    <img src="Detection Images/Validation Dataset/Image2.jpeg" alt="Image 2">
+    <img src="Detection Images/Validation Dataset/Image 2.jpeg" alt="Image 2">
   </div>
   <div class="grid-item">
     <img src="Detection Images/Validation Dataset/Image 3.jpeg" alt="Image 3">
