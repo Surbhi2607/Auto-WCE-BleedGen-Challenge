@@ -29,7 +29,13 @@
 |---------------|---------------------------|---------|
 | Classification| Accuracy                  | 98.092  |
 |               | Recall                    | 98      |
+|               | Precision                 | 98      |
 |               | F1-Score                  | 98      |
 | Detection     | Average Precision         | 0.78    |
 |               | Mean Average Precision    | 0.84    |
 |               | Intersection over Union   | 0.75    |
+
+<!-- 10 BEST IMAGES FROM VALIDATION DATASET SHOWING CLASSIFICATION -->
+## 10 Best images from Validation Dataset showing classification
+
+
