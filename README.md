@@ -73,4 +73,39 @@
     <img src="Detection Images/Validation Dataset/Image 10.jpeg" alt="Image 10">
   </div>
 </div>
+<!-- 10 BEST CAM PLOTS FROM VALIDATION DATASET -->
+## 10 Best CAM Plots from Validation Dataset
+<div class="grid">
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (1).png" alt="Image 1">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (2).png" alt="Image 2">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (3).png" alt="Image 3">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (4).png" alt="Image 4">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (5).png" alt="Image 5">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (6).png" alt="Image 6">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (7).png" alt="Image 7">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (8).png" alt="Image 8">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (9).png" alt="Image 9">
+  </div>
+  <div class="grid-item">
+    <img src="Interpretability Plots/Validation Dataset/img- (10).png" alt="Image 10">
+  </div>
+</div>
+
 
