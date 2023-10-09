@@ -55,7 +55,7 @@
     <img src="Detection Images/Validation Dataset/Image 4.jpeg" alt="Image 4">
   </div>
   <div class="grid-item">
-    <img src="Detection Images/Validation Dataset/Image 5.jpeg" alt="Image 5">
+    <img src="Detection Images/Validation Dataset/Image 5.png" alt="Image 5">
   </div>
   <div class="grid-item">
     <img src="Detection Images/Validation Dataset/Image 6.jpeg" alt="Image 6">
