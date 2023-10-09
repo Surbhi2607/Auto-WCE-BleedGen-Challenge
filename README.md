@@ -73,6 +73,7 @@
     <img src="Detection Images/Validation Dataset/Image 10.jpeg" alt="Image 10">
   </div>
 </div>
+
 <!-- 10 BEST CAM PLOTS FROM VALIDATION DATASET -->
 ## 10 Best CAM plots from Validation Dataset
 <div class="grid">
@@ -107,6 +108,7 @@
     <img src="Interpretability Plots/Validation Dataset/img- (10).png" alt="Image 10">
   </div>
 </div>
+
 <!-- 5 BEST IMAGES FROM TEST DATASET 1 SHOWING CLASSIFICATION -->
 ## 5 Best images from Test Dataset 1 showing classification
 ### Bleeding Images
@@ -125,6 +127,25 @@
   </div>
   <div class="grid-item">
     <img src="Classification Images/Test Dataset 1/A0006.png" alt="Image 5">
+  </div>
+  
+  <!-- 5 BEST IMAGES FROM TEST DATASET 1 SHOWING DETECTION -->
+## 5 Best images from Test Dataset 1 showing detection
+<div class="grid">
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 1/Image 1.jpeg" alt="Image 1">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 1/Image 2.jpeg" alt="Image 2">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 1/Image 3.jpeg" alt="Image 3">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 1/Image 4.jpeg" alt="Image 4">
+  </div>
+  <div class="grid-item">
+    <img src="Detection Images/Test Dataset 1/Image 5.jpeg" alt="Image 5">
   </div>
 
 
