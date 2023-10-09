@@ -12,7 +12,7 @@
     <li>
       <a href="#10-best-images-from-validation-dataset-showing-detection">10 Best images from Validation dataset showing detection</a>
     </li>
-    <li><a href="#10-best-CAM-plots-from-validation-dataset">10 Best CAM plots from Validation dataset</a><
+    <li><a href="#10-best-CAM-plots-from-validation-dataset">10 Best CAM plots from Validation dataset</a>
     <li><a href="#5-best-images-from-test-dataset-1-showing-classification">5 Best images form Test Dataset 1 showing classification</a></li>
     <li><a href="#5-best-images-from-test-dataset-1-showing-detection">5 Best images form Test Dataset 1 showing detection</a></li>
     <li><a href="#5-best-LIME-plots-from-test-dataset-1">5 Best LIME plots from Test Dataset 1</a></li>
@@ -107,5 +107,24 @@
     <img src="Interpretability Plots/Validation Dataset/img- (10).png" alt="Image 10">
   </div>
 </div>
+<!-- 5 BEST IMAGES FROM TEST DATASET 1 SHOWING CLASSIFICATION -->
+## 5 Best images from Test Dataset 1 showing classification
+### Bleeding Images
+<div class="grid">
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 1/A0000.png" alt="Image 1">
+  </div>
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 1/A0002.png" alt="Image 2">
+  </div>
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 1/A0004.png" alt="Image 3">
+  </div>
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 1/A0005.png" alt="Image 4">
+  </div>
+  <div class="grid-item">
+    <img src="Classification Images/Test Dataset 1/A0006.png" alt="Image 5">
+  </div>
 
 
