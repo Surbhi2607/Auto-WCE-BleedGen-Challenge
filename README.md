@@ -43,34 +43,34 @@
 ## 10 Best images from Validation Dataset showing detection
 <div class="grid">
   <div class="grid-item">
-    <img src="Validation Dataset/Image 1.jpeg" alt="Image 1">
+    <img src="Detection Images/Validation Dataset/Image1.jpeg" alt="Image 1">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 2.jpeg" alt="Image 2">
+    <img src="Detection Images/Validation Dataset/Image2.jpeg" alt="Image 2">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 3.jpeg" alt="Image 3">
+    <img src="Detection Images/Validation Dataset/Image 3.jpeg" alt="Image 3">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 4.jpeg" alt="Image 4">
+    <img src="Detection Images/Validation Dataset/Image 4.jpeg" alt="Image 4">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 5.jpeg" alt="Image 5">
+    <img src="Detection Images/Validation Dataset/Image 5.jpeg" alt="Image 5">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 6.jpeg" alt="Image 6">
+    <img src="Detection Images/Validation Dataset/Image 6.jpeg" alt="Image 6">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 7.jpeg" alt="Image 7">
+    <img src="Detection Images/Validation Dataset/Image 7.jpeg" alt="Image 7">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 8.jpeg" alt="Image 8">
+    <img src="Detection Images/Validation Dataset/Image 8.jpeg" alt="Image 8">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 9.jpeg" alt="Image 9">
+    <img src="Detection Images/Validation Dataset/Image 9.jpeg" alt="Image 9">
   </div>
   <div class="grid-item">
-    <img src="Validation Dataset/Image 10.jpeg" alt="Image 10">
+    <img src="Detection Images/Validation Dataset/Image 10.jpeg" alt="Image 10">
   </div>
 </div>
 
