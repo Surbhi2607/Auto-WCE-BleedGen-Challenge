@@ -33,7 +33,8 @@
 |               | F1-Score                  | 98      |
 | Detection     | Average Precision         | 93.7    |
 |               | Mean Average Precision    | 97      |
-|               | Intersection over Union   | 0.75    |
+
+#### Intersection over Union Threshold was taken as 0.35
 
 <!-- 10 BEST IMAGES FROM VALIDATION DATASET SHOWING CLASSIFICATION -->
 ## 10 Best images from Validation Dataset showing classification
